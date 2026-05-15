@@ -25,8 +25,10 @@ Green synthesis of copper nanoparticles using Hygrophila auriculata and Leucas a
 > Volume 17, Issue 4, Article 169
 > CiteScore: 6.8
 
-📥 [View Full Paper](paper/copper_nanoparticles_JFB_2026.pdf)
+[![DOI](https://img.shields.io/badge/DOI-10.3390%2Fjfb17040169-blue)](https://doi.org/10.3390/jfb17040169)
 
+📥 [View Full Paper on MDPI](https://www.mdpi.com/2079-4983/17/4/169)
+📥 [View Full Paper PDF](paper/copper_nanoparticles_JFB_2026.pdf)
 ---
 
 ## Overview
@@ -110,5 +112,17 @@ discussion and statistical analysis.
 📥 [View Full Paper](paper/copper_nanoparticles_JFB_2026.pdf)
 
 ---
+
+## How to Cite
+
+Gayathri Vijayakumar, Amrutha Raja, Swathi Ganesan,
+Teja Sri Senthil, Jainitha Kandasamy,
+Prathiksha Senthil Kumaran, Senthil Kumaran Rangarajulu.
+Polyherbal-Mediated Synthesis of Copper Nanoparticles Using
+Hygrophila auriculata and Leucas aspera: Cytotoxicity,
+Antioxidant Effect, and Antibacterial Potential Against
+Healthcare-Associated Pathogens.
+*Journal of Functional Biomaterials*. 2026; 17(4):169.
+https://doi.org/10.3390/jfb17040169---
 
 ## Repository Structure
